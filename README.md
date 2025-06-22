@@ -1,6 +1,6 @@
-# Ventrixe – Event Service (Backend)
+# Ventixe – Event Service (Backend)
 
-This is the microservice responsible for handling event data in the Ventrixe MVP. Built with ASP.NET Core Web API.
+This is the microservice responsible for handling event data in the Ventixe MVP. Built with ASP.NET Core Web API.
 
 ## Features
 - Get all events
